@@ -3,3 +3,5 @@ zweiter commit
 dritter commit 
 vierter commit
 fuenf
+das ist ein commit im feature branch 1
+ein weiterer commit aus dem feature branch
